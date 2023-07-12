@@ -1,0 +1,11 @@
+Hand gesture recognition is a challenging but important problem in computer vision.
+It has a wide range of applications, such as controlling devices, interacting with virtual reality environments, and providing input for 
+sign language recognition systems. This project will develop a hand gesture recognition system using a deep learning approach.
+The system will be trained on a dataset of hand gesture images and videos. The system will then be able to recognize a variety of hand gestures,
+including simple gestures such as pointing and waving, as well as more complex gestures such as signing letters and numbers. The system will be
+evaluated on a held-out test set of hand gesture images and videos. The evaluation will measure the accuracy of the system in recognizing 
+different hand gestures. The project will also explore the use of data augmentation techniques to improve the performance of the system.
+Data augmentation is a technique that can be used to artificially increase the size of the training dataset. This can help to improve the
+generalization performance of the system and reduce the risk of overfitting. The results of this project will contribute to the development of
+more robust and accurate hand gesture recognition systems. The system will be made available to the public so that it can be used by 
+researchers and developers to build new applications.
